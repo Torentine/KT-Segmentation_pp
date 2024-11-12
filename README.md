@@ -15,6 +15,9 @@
 - Неуймин Владимир Дмитриевич РИ-410910
 - Соловьев Максим Георгиевич РИ-410911
 
+## Основные файлы пп
+- [Гугл диск](https://drive.google.com/drive/folders/1xjjnZDXsPX4tRIg-Y8MW9r7QnCey5WFr?usp=sharing)
+
 ## Sources
 - [CHAOS (Combined (CT-MR) Healthy Abdominal Organ Segmentation)](https://chaos.grand-challenge.org/Combined_Healthy_Abdominal_Organ_Segmentation)
 
